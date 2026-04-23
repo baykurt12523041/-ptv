@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR:HT Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/213d42ff-51ba-4591-ae43-a35779496d93.png" group-title="SPOR",TR: HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ekol Sport TV HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Ekol Sport TV HD
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/46319886-6c97-4640-8d63-8e4b11511c74.png" group-title="SPOR",TR:Trt Spor HD
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A Spor HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9d28401f-2d4e-4862-85e2-69773f6f45f4.png" group-title="SPOR",TR:A Spor HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Trt Spor Yıldız HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" group-title="SPOR",TR:Trt Spor Yıldız HD
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Sports Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png" group-title="SPOR",TR:Sports Tv HD
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Fb Tv HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/06bc7085-065e-473e-b4aa-ec56ed3455f5.png" group-title="SPOR",TR:Fb Tv HD
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 3 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub3.m3u8
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 4 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydub4.m3u8
+#EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:S Sport HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:S Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydus2.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TR:Tivibu Spor 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Spor 1 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydut1.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TR:Tivibu Spor 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Spor 2 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydut2.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TR:Tivibu Spor 3 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Spor 3 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydut3.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Spor 4 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Spor 4 HD
+https://tinyurl.com/Fiat-linea-multijet/yula/ceydut4.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="TR:beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="TR:beIN Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="TR:beIN Sport 3 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 3 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="TR:beIN Sport 4 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 4 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="TR:beIN Sport 5 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport 5 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="bein-sports-max-1" tvg-name="TR:beIN Sport Max 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport Max 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm1.m3u8
+#EXTINF:-1 tvg-id="bein-sports-max-2" tvg-name="TR:beIN Sport Max 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:beIN Sport Max 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm2.m3u8
+#EXTINF:-1 tvg-id="s-sport" tvg-name="TR:S Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:S Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="TR:S Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:S Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor" tvg-name="TR:Tivibu Sport HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Sport HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TR:Tivibu Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets1.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TR:Tivibu Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets2.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TR:Tivibu Sport 3 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Sport 3 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets3.m3u8
+#EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Sport 4 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Tivibu Sport 4 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets4.m3u8
+#EXTINF:-1 tvg-id="smart-sport-1" tvg-name="TR:Smart Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Smart Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-id="smart-sport-2" tvg-name="TR:Smart Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Smart Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-id="euro-sport-1" tvg-name="TR:Euro Sport 1 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Euro Sport 1 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-id="euro-sport-2" tvg-name="TR:Euro Sport 2 HD" tvg-logo="https://i.hizliresim.com/mjpv4ga.png" group-title="SPOR",TR:Euro Sport 2 HD
+https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8
